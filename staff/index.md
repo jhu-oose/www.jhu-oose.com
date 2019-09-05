@@ -232,7 +232,7 @@
 </figure>
 -->
 
-**Office Hours:** Fridays 12:30–13:30
+**Office Hours:** Fridays 12:30–13:30 and Wednesday: 4:30-5:30
 
 **Email:** <pranav@jhu-oose.com>
 
