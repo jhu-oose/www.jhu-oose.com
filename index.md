@@ -1,102 +1,93 @@
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: gray;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li class="dropdown">
+    <a href="./lectures" class="dropbtn">Lectures</a>
+    <div class="dropdown-content">
+      <a href="./lectures/0">Lecture 0</a>
+    </div>
+  </li>
+  <li class="dropdown">
+    <a href="./assignments" class="dropbtn">Homeworks</a>
+    <div class="dropdown-content">
+      <a href="/assignments/0">Assignment 0</a>
+    </div>
+  </li>
+  <li class="dropdown">
+    <a href="./group-projects" class="dropbtn">Sprints</a>
+    <div class="dropdown-content">
+      <a href="./iterations/0">Sprint 0</a>
+      <a href="./iterations/1">Sprint 1</a>
+      <a href="./iterations/2">Sprint 2</a>
+      <a href="./iterations/3">Sprint 3</a>
+      <a href="./iterations/4">Sprint 4</a>
+      <a href="./iterations/5">Sprint 5</a>
+      <a href="./iterations/6">Sprint 6</a>
+    </div>
+  </li>
+  <li><a href="./logistics">Logistics</a></li>
+</ul>
+
 **A Course at the [Johns Hopkins University](https://www.jhu.edu)**
 
-**Fall 2019**  
+**Spring 2020**  
+
+### Website in Progress
+
 EN.601.421 (Undergraduate Students) · EN.601.621 (Graduate Students)  
-[Homewood Campus · Mergenthaler Hall · Room 111](https://www.jhu.edu/maps-directions/campus-map/)  
-Mondays & Wednesdays 13:30–14:45
+[Homewood Campus · Shaffer Hall · Room 3](https://www.jhu.edu/maps-directions/campus-map/)  
+Tuesdays & Thursdays 12:00–1:15
 
 <video src="https://archive.org/download/jhu-oose/welcome-to-oose.mp4" controls preload="none"></video>
-
-# Logistics
-
-[Course Description](/course-description)
-
-[Calendar](/calendar)
-
-[Staff](/staff)
-
-[Policies](/policies)
-
-[Opportunities for Extra Points](/opportunities-for-extra-points)
-
-[Fun Stuff Students Did](/fun-stuff-students-did)
-
-[Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
-
-[Acknowledgements](/acknowledgements)
-
-[Staff Area](https://github.com/jhu-oose/{{site.course}}-staff){:data-proofer-ignore="true"} <small title="You must be a staff member logged into GitHub to see this.">🔒</small>
-
-[Course Assistant Candidates](/course-assistant-candidates)
-
-# Course Material
-
-[Toolbox](/toolbox)
-
-[TODOOSE: Building an Application from Scratch](/todoose)
-
-# Lectures
-
-[Lecture 0: Project Proposal](/lectures/0)
-
-[Lecture 1: Design Rudiments](/lectures/1)
-
-[Lecture 2: Design Principles](/lectures/2)
-
-[Lecture 3: Design Patterns](/lectures/3)
-
-[Lecture 4: Implementation · Server](/lectures/4)
-
-[Lecture 5: Implementation · Client](/lectures/5)
-
-[Lecture 6: Implementation · React](/lectures/6)
-
-[Lecture 7: Implementation · Investigating Mysteries](/lectures/7)
-
-[Lecture 8: Security](/lectures/8)
-
-[Lecture 9: Programming Paradigms](/lectures/9)
-
-[Lecture 10: Open-Source](/lectures/10)
-
-# Individual Assignments
-
-[Assignment 0: Project Proposal](/assignments/0)
-
-[Assignment 1: Design Rudiments](/assignments/1)
-
-[Assignment 2: Design Principles](/assignments/2)
-
-[Assignment 3: Design Patterns](/assignments/3)
-
-[Assignment 4: Implementation · Server](/assignments/4)
-
-[Assignment 5: Implementation · Client](/assignments/5)
-
-[Assignment 6: Implementation · React](/assignments/6)
-
-[Assignment 7: Implementation · Investigating Mysteries](/assignments/7)
-
-[Assignment 8: Security](/assignments/8)
-
-[Assignment 9: Programming Paradigms](/assignments/9)
-
-[Assignment 10: Open-Source](/assignments/10)
-
-# [Quiz](/quiz)
-
-# [Group Projects](/group-projects)
-
-[Iteration 0: Project Proposal](/iterations/0)
-
-[Iteration 1: Design](/iterations/1)
-
-[Iteration 2: First Feature](/iterations/2)
-
-[Iteration 3: Core Features](/iterations/3)
-
-[Iteration 4: More Features](/iterations/4)
-
-[Iteration 5: Even More Features](/iterations/5)
-
-[Iteration 6: Full Application](/iterations/6)

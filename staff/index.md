@@ -8,15 +8,15 @@
 **<small>⚠️</small>  Office hours are at the Undergraduate Laboratory in Malone Hall 122.**
 -->
 
-# Instructor: Leandro Facchinetti
+# Instructor: Ali Madooei
 
 <figure markdown="1">
-![Leandro Facchinetti](leandro.png){:width="300"}
+![Ali Madooei](leandro.png){:width="300"}
 </figure>
 
 <!-- **Office Hours:** Mondays & Wednesdays 15:00–16:00 -->
 
-**Email:** <leandro@jhu-oose.com>
+**Email:** <ali@jhu-oose.com>
 
 **GitHub Identifier**: [`leafac`](https://github.com/leafac)
 
@@ -46,193 +46,7 @@
 
 # Course Assistants (CAs)
 
-## Anand Koshy
-
-<figure markdown="1">
-![Anand Koshy](anand.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Mondays 12:00–13:00 -->
-
-**Email:** <anand@jhu-oose.com>
-
-**GitHub Identifier**: [`anand-koshy`](https://github.com/anand-koshy)
-
-## Nikhil Teja Dommeti
-
-<!--
-<figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
-</figure>
--->
-
-<!-- **Office Hours:** Thursdays 08:00–08:45 & Fridays 08:00–09:15 -->
-
-**Email:** <nikhil@jhu-oose.com>
-
-**GitHub Identifier**: [`nexusboy`](https://github.com/nexusboy)
-
- **Expertise Beyond Toolbox:** : Deep Learning in Python and System Security. 
-
- **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
-
-## Brandon Lim
-
-<figure markdown="1">
-![Brandon Lim](blim.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Tuesdays & Thursdays 13:30–14:45 -->
-
-**Email:** <brandon@jhu-oose.com>
-
-**GitHub Identifier**: [`blim747`](https://github.com/blim747)
-
-**Expertise Beyond Toolbox:** Python (Django, Flask) and iOS (Swift).
-
-**Homepage:** <http://brandonl.im/>
-
-**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
-
-## Amrit Nidhi
-
-<figure markdown="1">
-![Amrit Nidhi](anidhi.jpg){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Wednesdays & Fridays 18:00–19:00 -->
-
-**Email:** <amrit@jhu-oose.com>
-
-**GitHub Identifier**: [`anidhi`](https://github.com/anidhi)
-
-**Expertise Beyond Toolbox:** : Android, Python, C#, and Adobe Photoshop & Illustrator.
-
-**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
-
-## Stephan Kemper
-
-<figure markdown="1">
-![Stephan Kemper](stephan.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00 -->
-
-**Email:** <stephan@jhu-oose.com>
-
-**GitHub Identifier**: [`skemper`](https://github.com/skemper)
-
 # Group Advisors
-
-## Muskaan Kalra
-
-<figure markdown="1">
-![Muskaan Kalra](muskaan.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Tuesdays & Thursdays 15:00–16:00 -->
-
-**Email:** <muskaan@jhu-oose.com>
-
-**GitHub Identifier**: [`muskaankalra`](https://github.com/muskaankalra)
-
-**Expertise Beyond Toolbox:** Python (Flask) and Android.
-
-**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
-
-## Liza Mathews
-
-<figure markdown="1">
-![Liza Mathews](liza.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Wednesdays 10:00–11:00 -->
-
-**Email:** <liza@jhu-oose.com>
-
-**GitHub Identifier**: [`lizamathews`](https://github.com/lizamathews)
-
-**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
-
-## Shreyas Aiyar
-
-<figure markdown="1">
-![Shreyas Aiyar](shreyas.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Mondays & Thursdays 18:00–19:00 -->
-
-**Email:** <shreyas@jhu-oose.com>
-
-**GitHub Identifier**: [`ShreyasAiyar`](https://github.com/ShreyasAiyar)
-
-**Expertise Beyond Toolbox:** iOS and Angular.
-
-**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
-
-## Anuraag Baishya
-
-<figure markdown="1">
-![Anuraag Baishya](anuraag.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Tuesdays & Thursdays 16:15–17:15 -->
-
-**Email:** <anuraag@jhu-oose.com>
-
-**GitHub Identifier**: [`anuraagbaishya`](https://github.com/anuraagbaishya)
-
-**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, and Web Application Security.
-
-**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
-
-## Pranav Shirke
-
-<figure markdown="1">
-![Pranav Shirke](pranav.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:** Fridays 12:30–13:30 & Wednesdays 16:30–17:30 -->
-
-**Email:** <pranav@jhu-oose.com>
-
-**GitHub Identifier**: [`Pranavs05`](https://github.com/Pranavs05)
-
- **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
-
-## Adeshola Lawal
-
-<figure markdown="1">
-![Adeshola Lawal](adeshola.png){:width="300"}
-</figure>
-
-<!-- **Office Hours:**: Wednesdays 9:00-10:00 & Thursdays 11:00-12:00 -->
-
-**Email:** <adeshola@jhu-oose.com>
-
-**GitHub Identifier**: [`shola-lawal`](https://github.com/shola-lawal)
-
-**Expertise Beyond Toolbox:**: .NET, .NET Core, and Data engineering.
-
-## Kalyani Bansidhar Pawar
-
-<!--
-<figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
-</figure>
--->
-
-<!-- **Office Hours:** Wednesdays 12:00–13:00 -->
-
-**Email:** <kalyani@jhu-oose.com>
-
-**GitHub Identifier**: [`kpawar2410`](https://github.com/kpawar2410)
-
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
 
 # Robot: Roboose
 
