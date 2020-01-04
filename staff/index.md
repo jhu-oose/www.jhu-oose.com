@@ -10,21 +10,17 @@
 
 # Instructor: Ali Madooei
 
-<figure markdown="1">
-![Ali Madooei](leandro.png){:width="300"}
-</figure>
-
 <!-- **Office Hours:** Mondays & Wednesdays 15:00–16:00 -->
 
-**Email:** <ali@jhu-oose.com>
+**Email:**
 
-**GitHub Identifier**: [`leafac`](https://github.com/leafac)
+**GitHub Identifier**: 
 
-**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming language theory.
+**Expertise Beyond Toolbox:**
 
-**Homepage:** <https://www.leafac.com>
+**Homepage:**
 
-**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
+**Personal Pronoun:**
 
 # Head Course Assistant (Head CA): Yash Kumar Lal
 
