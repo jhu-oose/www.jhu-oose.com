@@ -62,7 +62,7 @@ li.dropdown {
   <li class="dropdown">
     <a href="./assignments" class="dropbtn">Homeworks</a>
     <div class="dropdown-content">
-      <a href="/assignments/0">Assignment 0</a>
+      <a href="./assignments/0">Homework 0</a>
     </div>
   </li>
   <li class="dropdown">

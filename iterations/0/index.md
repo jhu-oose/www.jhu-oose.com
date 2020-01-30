@@ -22,7 +22,7 @@ advisors:
 
 Your first task in this iteration is to form a group of 5 or 6 students. You may form your group based on affinity if you already know people in the course, or you may form your group based on shared interests in theme and technology. An ideal group is motivated to work toward the same kinds of problems, but has a diverse background and expertise. A lot of what you learn in this course doesn’t come from the staff, but from the other members of your group.
 
-You may form your group outside class time, or using the forum in the [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>, or in person during [Laboratory Session 1](/group-projects#laboratory-sessions), which is dedicated to group formation.
+You may form your group outside class time, or using the forum in the [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>, or in person during Project Meeting 1, which is dedicated to group formation.
 
 After having formed a group, you must register it using the form below:
 
@@ -57,22 +57,6 @@ GitHub identifiers **do not** start with `2019-student-`.
 Groups must have 5 or 6 members.  
 </small>
 
-<label>
-**Preferred [Advisors](/staff#group-advisors)**  
-<select name="advisors[]">
-<option value="">(Optional)</option>
-{%- for advisor in page.advisors -%}
-<option value="{{advisor.github}}">{{advisor.name}}</option>
-{%- endfor -%}
-</select>
-</label>  
-<select name="advisors[]">
-<option value="">(Optional)</option>
-{%- for advisor in page.advisors -%}
-<option value="{{advisor.github}}">{{advisor.name}}</option>
-{%- endfor -%}
-</select>
-
 **<small>⚠️</small>  Don’t submit this form multiple times. Your group must be registered by only one of your group members.**
 
 <button>Register</button>
@@ -84,4 +68,4 @@ If you run into problems, send an email to <group-registration@jhu-oose.com>. In
 
 After you register your group, the group members are invited to a GitHub Team called `jhu-oose/{{site.course}}-group-<identifier>`, which grants you access to a repository at `https://github.com/jhu-oose/{{site.course}}-group-<identifier>`. You’ll use this repository throughout the course to submit iterations, receive reviews, communicate with your advisor, and so forth.
 
-Your group will be assigned a temporary advisor when you register your group, and by the end of [Iteration 1](/iterations/1) you’ll be assigned a permanent advisor.
+By the end of Sprint 1, you’ll be assigned a permanent advisor.
